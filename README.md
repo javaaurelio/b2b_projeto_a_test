@@ -1,2 +1,2 @@
 # b2b_projeto_a_test
-BP_Teste_Jenkins
+TESTE_Deploy_via_jenkins
